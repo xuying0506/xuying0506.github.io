@@ -9,6 +9,7 @@ author_profile: true
 
 | Course | Level | Instructor | Period |
 | ------ | ----- | ---------- | ------ |
+| Resource Allocation in Education | Graduate | Veronica Minaya | Spring 2024 |
 | Statistics for Economics | Undergraduate | Randall Reback | Fall 2023 |
 | Behavioral Economics with Applications to Education | Graduate | Aparna Anand | Summer 2023 |
 | Economics and Education | Undergraduate | Randall Reback | Fall 2022 |

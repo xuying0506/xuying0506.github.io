@@ -76,3 +76,12 @@
 .author__urls a {
   font-family: $georgia;
 }
+
+.masthead__menu-item a,
+.masthead__menu-item--lg a {
+  font-weight: 600;
+}
+
+.masthead__menu-item a:hover {
+  text-decoration: underline;
+}

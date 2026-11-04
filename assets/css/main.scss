@@ -40,13 +40,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar img {
-  width: 100%;
-  max-width: 100%;
-}
-
+/* Larger sidebar headshot on desktop */
 @include breakpoint($large) {
-  .author__avatar img {
-    max-width: 260px;
+  .sidebar {
+    width: 24%;
+  }
+
+  .page,
+  .archive {
+    width: 72%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .sidebar .author__avatar img {
+    width: 100%;
+    max-width: 280px;
   }
 }

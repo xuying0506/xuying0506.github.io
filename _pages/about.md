@@ -1,23 +1,24 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Ying Xu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago. I received my PhD in Economics and Education from Columbia University in May 2024. I am on the **2026–2027 job market**.
 
-<!-- <div class="figure_aboutme">
-  <img src="https://xuying0506.github.io/images/Ying.JPG" />
-</div> -->
+My research is in Economics of Education, Industrial Organization, and Public Economics. I study how public policies and major events affect equity and efficiency, combining quasi-experimental research designs with structural models.
 
-I am a Ph.D. candidate in Economics and Education at Columbia University.
+[CV](/files/CV_YingXu_website.pdf)
 
-My research interests are in Economics of Education, Industrial Organization, and Public Economics.
+## Job Market Paper
 
-I am on the 2023-24 job market.
+**[Navigating Competitive Pressures: School Responses to Competition and the Distributional Effects on Student Achievement]**  
+[This paper examines the equity-efficiency implications of traditional public schools' (TPSs) responses to increased competition from charter schools. Using administrative data from North Carolina, I find that TPSs respond to student and teacher attrition to charter schools by reducing the number of classes, resulting in increased class sizes and higher student-teacher ratios. To maintain school proficiency rates, TPSs strategically reassign high-quality teachers to low-achieving and economically disadvantaged students. These effects remain consistent even after accounting for changes in school composition. Furthermore, I develop and estimate an empirical model of school choice and competition to analyze the impact of charter sector expansion. The findings indicate that expanding charter schools promotes a more equitable distribution of high-quality teachers within TPSs. Additionally, optimizing teacher-student matching emerges as an effective strategy to improve allocative efficiency.]  
+[[Paper](/files/JMP_YingXu.pdf)]
 
-You can reach me at [yx2471@tc.columbia.edu](mailto:yx2471@tc.columbia.edu).
+## Contact
 
-You can find my [CV here](https://xuying0506.github.io/files/CV_YingXu_website.pdf).
+[yingxu@uchicago.edu](mailto:yingxu@uchicago.edu)

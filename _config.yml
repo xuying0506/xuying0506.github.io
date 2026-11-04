@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YING XU"
 title_separator          : "-"
 name                     : &name "YING XU"
-description              : &description "personal description"
+description              : &description "Ying Xu is a postdoctoral scholar in economics at the University of Chicago. Research in Labour Economics and Industrial Organization."
 url                      : https://xuying0506.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuying0506/xuying0506.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "Ying.JPG"   # or a lowercase renamed copy
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "YING XU"
   avatar           : "Ying.JPG"
-  bio              : "Ph.D. Candidate at Columbia University"
-  location         : "New York"
-  employer         :
+  bio              : "Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics, University of Chicago"
+  location         : "Chicago, IL"
+  employer         : "University of Chicago"
   pubmed           : 
   googlescholar    : 
-  email            : "yx2471@tc.columbia.edu"
+  email            : "yingxu@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -199,7 +199,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -217,7 +217,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -226,7 +226,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -235,7 +235,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -255,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins

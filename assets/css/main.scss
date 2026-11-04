@@ -97,3 +97,40 @@
 }
 
   /* redeploy */
+
+.teaching-table {
+  width: 100%;
+  margin-bottom: 2em;
+  border-collapse: collapse;
+  font-size: 0.9em;
+
+  thead {
+    background: #e8eef7;
+  }
+
+  th {
+    padding: 0.7em 0.8em;
+    border: 0;
+    background: #e8eef7;
+    color: #1d4f91;
+    font-weight: 600;
+    text-align: left;
+  }
+
+  tbody tr,
+  tbody tr:nth-child(even) {
+    background: none;
+  }
+
+  td {
+    padding: 0.6em 0.8em;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+    vertical-align: top;
+  }
+
+  th:first-child,
+  td:first-child {
+    width: 45%;
+  }
+}

@@ -85,3 +85,13 @@
 .masthead__menu-item a:hover {
   text-decoration: underline;
 }
+
+.sidebar .author__content,
+.sidebar .author__content h3,
+.sidebar .author__content p,
+.sidebar .author__name,
+.sidebar .author__bio,
+.author__name,
+.author__bio {
+  font-family: $georgia !important;
+}

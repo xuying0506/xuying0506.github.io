@@ -64,3 +64,15 @@
   text-align: justify;
   hyphens: auto;
 }
+
+.masthead,
+.masthead__menu-item,
+.site-title,
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls li,
+.author__urls a {
+  font-family: $georgia;
+}

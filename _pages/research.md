@@ -37,7 +37,7 @@ author_profile: true
 
 ## Work in Progress
 <div class="paper">
-  <div class="paper-title">The Value of Work and the Social Safety Net</a></div>
+  <div class="paper-title">The Value of Work and the Social Safety Net</div>
 <div class="paper-meta">with <a href="https://sites.google.com/view/mdeshpande"> Manasi Deshpande</a> and <a href="https://www.charlierafkin.com">Rebecca Dizon-Ross</a></div>
   <details class="paper-details">
     <summary>Abstract</summary>
@@ -47,7 +47,7 @@ author_profile: true
 
 
 <div class="paper">
-  <div class="paper-title">The Impact of Adverse Weather and Holidays on Hospital Visit Timing and Eye Condition Severity</a></div>
+  <div class="paper-title">The Impact of Adverse Weather and Holidays on Hospital Visit Timing and Eye Condition Severity</div>
 <div class="paper-meta">with <a href="https://sites.google.com/view/mdeshpande"> Manasi Deshpande</a>, <a href="https://www.london.edu/faculty-and-research/faculty-profiles/r/ramdas-k">Kamalini Ramdas</a>, <a href="https://www.charlierafkin.com">Sanjay Jain</a>, Josephine Christy, and Rengaraj Venkatesh </div>
   <details class="paper-details">
     <summary>Abstract</summary>

@@ -17,7 +17,7 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title"><a href="/files/School_Closure.pdf"> Wildfire Exposure and Learning Loss: Evidence from California </a></div>
-  <div class="paper-meta">with <a href="https://coauthor-website.com">Yifeng Luo</a></div>
+  <div class="paper-meta">with Yifeng Luo</div>
 <div class="paper-funding">Funded by the Russell Sage Foundation and William T. Grant Foundation for Improving Education Equality.</div> 
   <details class="paper-details">
     <summary>Abstract</summary>
@@ -27,8 +27,8 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title">Take-up and Targeting</div>
-<div class="paper-status">Draft coming soon</div>
 <div class="paper-meta">with <a href="https://sites.google.com/view/mdeshpande"> Manasi Deshpande</a> and <a href="https://www.charlierafkin.com">Charlie Rafkin</a></div>
+  <div class="paper-status">Draft coming soon</div>
   <details class="paper-details">
     <summary>Abstract</summary>
     <div class="paper-abstract"> What are the impacts of enrollment hassles, or “ordeals,” on the take-up and targeting of transfer programs? A large literature studies this question, but it is hard to interpret because the research examines different settings and measures of need. We perform a meta-analysis of 130 studies and 570 targeting estimates, converting each study's estimates into a common measure of targeting: the gap in expected consumption between marginal enrollees and existing enrollees. On average, ordeals reduce take-up but have zero targeting effects. Targeting does not vary predictably with the program's baseline hassle level, recipients' average need, the type of hassle, or other study characteristics. We develop a framework to study the normative properties of ordeals in terms of gains to marginal and inframarginal enrollees. When calibrated using the meta-analysis, the welfare benefits of ordeals in terms of targeting are typically small in magnitude. Because ordeals also impose deadweight loss on enrollees, reducing them would likely raise welfare.</div>

@@ -15,5 +15,5 @@ redirect_from:
 </p>
 
 <div class="cv-embed">
-  <iframe src="/files/CV_YingXu_website.pdf" title="Ying Xu CV"></iframe>
+  <iframe src="/files/CV_YingXu_website.pdf#view=FitH" title="Ying Xu CV" style="width:100%; height:1000px; border:1px solid #e5e5e5;"></iframe>
 </div>

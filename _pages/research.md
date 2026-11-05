@@ -16,7 +16,7 @@ author_profile: true
 ## Working Papers
 
 <div class="paper">
-  <div class="paper-title"><a href="/files/School_Closure.pdf"> Wildfire Exposure and Learning Loss: Evidence from California </a></div>
+  <div class="paper-title"><a href="/files/School_Closure_YX.pdf"> Wildfire Exposure and Learning Loss: Evidence from California </a></div>
   <div class="paper-meta">with Yifeng Luo</div>
 <div class="paper-funding">Funded by the Russell Sage Foundation and William T. Grant Foundation for Improving Education Equality.</div> 
   <details class="paper-details">

@@ -63,4 +63,4 @@ author_profile: true
     <div class="paper-abstract"> This paper assesses how government subsidies, aimed at reducing schooling costs to increase enrollment, interact with the supply-side fiscal burden. Policies like school fee waivers may heighten fiscal pressure on governments and potentially dampen their motivation to fund education, especially if such policies are imposed by higher-level authorities rather than being self-initiated. We analyze the impact of fiscal burdens from tuition-free policies on enrollment in China’s secondary vocational schools. Through a geographic regression discontinuity design exploiting variation in fiscal responsibilities across county borders, we find a 21% enrollment decrease in these schools, with variations ranging from 14% to 40%. We also find that larger fiscal responsibilities borne by local governments lead to greater enrollment reductions. </div>
   </details>
 </div>
-<img width="468" height="636" alt="image" src="https://github.com/user-attachments/assets/9a157059-f7fe-4e26-a6ce-249cdb5a5ce6" />
+

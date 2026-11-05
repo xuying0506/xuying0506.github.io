@@ -96,8 +96,6 @@
   font-family: $georgia !important;
 }
 
-  /* redeploy */
-
 .teaching-table {
   width: 100%;
   margin-bottom: 2em;
@@ -135,29 +133,43 @@
   }
 }
 
-.paper {
-  margin-bottom: 1.6em;
+/* Research page */
+.page__content .paper {
+  margin: 0;
+  padding: 1.1em 0;
 }
 
-.paper-title {
+.page__content .paper + .paper {
+  border-top: 1px solid #e5e5e5;
+}
+
+.page__content .paper-title {
   font-weight: 600;
   line-height: 1.35;
 }
 
-.paper-meta {
-  margin-top: 0.15em;
+.page__content .paper-meta {
+  margin-top: 0.25em;
   font-size: 0.9em;
 }
 
-.paper-abstract {
+.page__content .paper-funding,
+.page__content .paper-status {
+  margin-top: 0.25em;
+  font-size: 0.8em;
+  font-style: italic !important;
+  color: #666;
+}
+
+.page__content .paper-abstract {
+  margin-top: 0.5em;
   font-size: 0.85em;
   text-align: justify;
   hyphens: auto;
-  margin-top: 0.4em;
 }
 
-.paper-details {
-  margin-top: 0.3em;
+.page__content .paper-details {
+  margin-top: 0.5em;
 
   summary {
     display: inline-block;
@@ -184,17 +196,4 @@
     background: $link-color;
     color: #fff;
   }
-}
-
-.paper-funding {
-  margin-top: 0.15em;
-  font-size: 0.8em;
-  font-style: italic;
-  color: #666;
-}
-
-.paper-status {
-  font-size: 0.8em;
-  font-style: italic;
-  color: #888;
 }

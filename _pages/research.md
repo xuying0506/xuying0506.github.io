@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <div class="paper-title">Take-up and Targeting</div>
+  <div class="paper-title">Enrollment Hassles and the Targeting of Social Programs</div>
 <div class="paper-meta">with <a href="https://sites.google.com/view/mdeshpande"> Manasi Deshpande</a> and <a href="https://www.charlierafkin.com">Charlie Rafkin</a></div>
   <div class="paper-status">Draft coming soon</div>
   <details class="paper-details">

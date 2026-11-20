@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Scholar in the [Kenneth C. Griffin Department of Economics](https://economics.uchicago.edu/directory/ying-xu) at the University of Chicago. I received my PhD in Economics and Education from Columbia University in May 2024. I am on the **2026–2027 job market**.
 
-My research is in Economics of Education, Industrial Organization, and Public Economics. I study how public policies and major events affect equity and efficiency, combining quasi-experimental research designs with structural models.
+My research is in Economics of Education, Public Economics, and Industrial Organization. My research examines how economic incentives, market competition, and institutional frictions shape individual and organizational decisions, and their implications for resource allocation, efficiency, and inequality, combining quasi-experimental research designs with structural models.
 
 My CV can be found [here](/files/CV_YingXu_website.pdf).
 
